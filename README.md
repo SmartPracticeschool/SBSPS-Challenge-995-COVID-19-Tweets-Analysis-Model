@@ -6,5 +6,5 @@
 ##View the UI##
 
 
-##The video folder contains a working demo of the project##
+##The video contains a working demo of the project##
 ##youtube link to the video: https://youtu.be/gXWXwwt9pys ##
